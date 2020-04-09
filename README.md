@@ -8,7 +8,7 @@ http://www.theodinproject.com/courses/web-development-101/lessons/html-css
 
 [Update]
 
-Project finished, 5h total to develop. The result is a an almost analog to Google.com homepage.
+Project finished, 5h total to develop. The result is an almost analog website to Google.com homepage.
  
 Didn't rely on any Developer Tools and didn't view the homepage's source code, as instructed.
 

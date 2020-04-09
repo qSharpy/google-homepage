@@ -7,6 +7,11 @@ body {
   overflow: hidden;
 }
 
+.topnav .topnav-right .bento-menu {
+  width: 16px;
+  filter: opacity(55%);
+}
+
 .topnav a {
   float: left;
   color: #333333;

@@ -5,16 +5,19 @@ body {
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
 }
 
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: #333333;
   text-align: center;
-  padding: 14px 16px;
+  margin-left: 23px;
+  padding-top: 23px;
+  padding-left: 2px;
+  padding-right: 0px;
+  padding-bottom: 18px;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 13px;
 }
 
 .topnav a:hover {
@@ -23,12 +26,18 @@ body {
 }
 
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: #4487FB;
+  font-weight: bold;
   color: white;
+  padding: 7.5px 13px;
+  justify-self: center;
+  margin-top: 16px;
+  border-radius: 2px;
 }
 
 .topnav-right {
   float: right;
+  padding-right: 30px;
 }
 
 .navbar {
